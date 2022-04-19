@@ -4,8 +4,8 @@
 
 Avaible Currencies & Codes:
 
-Turkish Lira    tl
-Euro            euro
+Turkish Lira    tl,
+Euro            euro,
 US Dollar       dollar
 
 
