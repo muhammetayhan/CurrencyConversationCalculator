@@ -10,14 +10,7 @@ US Dollar       dollar
 
 
 19.04.2022
-
+===
 Development Started
 
-
-19.04.2022
-
-<<<<<<< HEAD
 Php-based conversion structure was prepared. Convertible currency types (Turkish Lira, US Dollar, Euro) have been added.
-=======
-Development Started
->>>>>>> 4ab5ad6269d318017b8da768e7c722519166e3a0
