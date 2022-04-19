@@ -4,9 +4,9 @@
 
 Avaible Currencies & Codes:
 
-Turkish Lira    tl,
-Euro            euro,
-US Dollar       dollar
+Turkish Lira    =>  tl,
+Euro            =>  euro,
+US Dollar       =>  dollar
 
 
 19.04.2022
